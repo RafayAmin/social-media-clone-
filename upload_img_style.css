@@ -1,0 +1,63 @@
+@import url('http://fonts.cdnfonts.com/css/daniel');
+.upimg
+{
+    margin-top: 2%;
+    margin-left: 30%;
+    margin-right: 30%; 
+    border-radius: 30px;
+    font-size: large;
+    text-align: center;
+    font-family: 'Daniel Black', sans-serif; 
+    background-image: linear-gradient(to right, rgb(255, 215, 130) , rgb(255, 255, 255));
+    color: brown;
+}
+.ULform
+{
+    
+    background-image: url("img/BG.jpg");
+    background-size: cover;
+    color: brown;
+    text-align: center;
+    font-size:x-large;
+    font-family: 'Daniel Black', sans-serif;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 30px;
+    line-height: 30px;
+}
+.eform input
+{
+    text-align: center;
+    font-size:x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding: auto;
+}
+.image
+{
+    
+    height: 400px;
+    width: 400px;
+    
+}
+.button
+{
+    margin: 1%;
+    border-radius: 30px;
+    background-color: rgba(255, 255, 255, 0.986);
+    border: none;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.button:hover
+{
+    background-color: rgba(202, 202, 202, 0.753);
+    color: black;
+
+}
